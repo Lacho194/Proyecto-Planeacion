@@ -1,0 +1,22 @@
+# Prototipo de Aplicación para la Detección Temprana de Enfermedades
+
+## Descripción del proyecto
+Este proyecto tiene como objetivo desarrollar un prototipo de una aplicación para la detección temprana de enfermedades comunes, utilizando dispositivos wearables y análisis de datos de salud.
+
+## Estructura del repositorio
+- `01_DescripcionInicial`: Documentación inicial del proyecto.
+- `02_Analisis`: Requisitos funcionales y no funcionales, evaluación de riesgos.
+- `03_Diseño`: Prototipos y diagramas del sistema.
+- `04_Desarrollo`: Código base del prototipo.
+- `05_Pruebas`: Resultados de pruebas y evidencias.
+- `06_Entrega`: Documentos finales del proyecto.
+- `07_Versiones`: Versiones previas de los archivos.
+
+## Control de versiones
+El control de versiones se realiza mediante GitHub, utilizando commits detallados para cada cambio significativo.
+
+## Fases del proyecto
+1. **Análisis y definición de requisitos**
+2. **Diseño del sistema**
+3. **Desarrollo del prototipo**
+4. **Pruebas y ajustes**
